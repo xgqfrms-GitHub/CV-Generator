@@ -1,5 +1,9 @@
-# online-CV-Generator
-curriculum vitae (CV): online-CV-Generator
+# Online-CV-Generator
+
+## curriculum vitae (CV): Online-CV-Generator
 
 
-## CNAME cv-generator.webgeeker.xyz
+## CNAME 
+```dns
+cv-generator.webgeeker.xyz
+```
